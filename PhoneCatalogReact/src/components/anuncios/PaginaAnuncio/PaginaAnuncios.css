@@ -1,0 +1,69 @@
+.paginaAnuncios {
+  background-color: aqua;
+}
+
+.header-nav {
+  align-self: center;
+  margin-right: 20px;
+}
+.contenedor-anuncios {
+  padding-left: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.imagenes-anuncios {
+  width: 100px;
+}
+.listado-anuncios {
+  padding: 20px;
+  width: 300px;
+}
+
+.listado-anuncios.pagina-anuncio {
+  padding: 20px;
+  width: 900px;
+}
+
+.listado-anuncios.add {
+  align-self: center;
+  justify-content: center;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1100px) {
+  .contenedor-anuncios {
+    padding-left: 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+  }
+
+  .listado-anuncios.pagina-anuncio {
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+    align-self: center;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .contenedor-anuncios {
+    padding-left: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  .listado-anuncios.pagina-anuncio {
+    padding: 0px;
+    width: 90%;
+    margin: 0 auto;
+  }
+}

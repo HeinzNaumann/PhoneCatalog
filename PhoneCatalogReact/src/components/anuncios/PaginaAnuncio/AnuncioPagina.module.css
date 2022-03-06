@@ -1,0 +1,72 @@
+.paginaAnuncios {
+  border-radius: 10px;
+}
+
+.paginaAnuncios {
+  border-radius: 10px;
+}
+.bloqueAnuncio {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px -2px rgba(0, 0, 0, 0.41);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 15px;
+  justify-content: space-around;
+}
+
+.caracteristicas {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+  align-self: center;
+}
+
+.Imagen {
+  width: 400px;
+}
+/* .bloque-anuncio {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+} */
+
+.bloqueAnuncioVacio .image {
+  justify-content: center;
+  align-self: center;
+}
+
+.bloqueAnuncio span {
+  margin-bottom: 2px;
+  color: #111111;
+  font-size: small;
+}
+
+.bloqueAnuncio img {
+  align-self: center;
+}
+
+.anuncioName {
+  margin: 7px 0;
+}
+
+.precioBox {
+  margin-top: 10px;
+}
+.precioBox p {
+  margin: 5px 0;
+}
+
+@media screen and (max-width: 1200px) {
+  .bloqueAnuncio {
+    grid-template-columns: 1fr;
+  }
+  .Imagen {
+    width: 250px;
+    margin: 0 auto;
+  }
+
+  ul {
+    padding: 0;
+  }
+}

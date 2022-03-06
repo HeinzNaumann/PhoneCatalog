@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <p>
+        <ul>
+            <% anuncios.forEach( anuncio => { %>
+            <li>
+                El articulo <%= anuncio.nombre %> tiene un precio de <%= anuncio.precio %> €.
+
+
+            </li>
+            <li>
+                <%= anuncio.tags %>
+            </li>
+            <li>
+
+                <img src="/images/<%= anuncio.foto %>">
+            </li>
+
+
+            <% }) %>
+        </ul>
+    </p>
+
+</body>
+
+</html>

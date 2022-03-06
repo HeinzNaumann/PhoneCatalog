@@ -1,0 +1,49 @@
+.layout-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  border-bottom-width: 1px;
+  height: 64px;
+  position: sticky;
+  top: 0;
+}
+
+.header-logo {
+  padding: 20px;
+}
+
+.layout-main {
+  border-left-width: 1px;
+  border-right-width: 1px;
+  margin: 0 auto;
+  max-width: 80%;
+  min-height: calc(100vh - 128px);
+}
+
+.layout-title {
+  align-items: center;
+  border-bottom-width: 1px;
+  display: flex;
+  height: 50px;
+  padding: 0 15px;
+}
+
+.layout-footer {
+  align-items: center;
+  border-top-width: 1px;
+  display: flex;
+  height: 64px;
+}
+
+.layout-header,
+.layout-footer {
+  padding: 10px 15px;
+}
+
+/*En tu hoja de estilos */
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+  color: black;
+}

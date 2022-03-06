@@ -1,0 +1,125 @@
+{
+  "anuncios": [
+    {
+      "name": "Xiaomi 3s",
+      "manufacturer": "Xiaomi",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "black",
+      "price": 769,
+      "imageFileName": "K3Swhite.png",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "iPhone 13",
+      "manufacturer": "Apple",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "Pink",
+      "price": 1.25,
+      "imageFileName": "iphone-13-pink.jpeg",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "Xiaomi K7B",
+      "manufacturer": "Samsung",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "Black",
+      "price": 469,
+      "imageFileName": "K7B-Black1.png",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "manufacturer": "Apple",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "black333",
+      "price": 1.769,
+      "imageFileName": "iphone-13-pro-max-gold-select.png",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "Xiaomi 3s",
+      "manufacturer": "Xiaomi",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "black",
+      "price": 769,
+      "imageFileName": "K3Swhite.png",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "iPhone 13",
+      "manufacturer": "Apple",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "Pink",
+      "price": 1.25,
+      "imageFileName": "iphone-13-pink.jpeg",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "Xiaomi K7B",
+      "manufacturer": "Samsung",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "Black",
+      "price": 469,
+      "imageFileName": "K7B-Black1.png",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "manufacturer": "Apple",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "black333",
+      "price": 1.769,
+      "imageFileName": "iphone-13-pro-max-gold-select.png",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "iPhone 13",
+      "manufacturer": "Apple",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "Pink",
+      "price": 1.25,
+      "imageFileName": "iphone-13-pink.jpeg",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "Xiaomi K7B",
+      "manufacturer": "Samsung",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "Black",
+      "price": 469,
+      "imageFileName": "K7B-Black1.png",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "manufacturer": "Apple",
+      "description": "Este es el teléfono para la gente que lo quiere todo. Hemos escuchado a nuestros seguidores y hemos creado un teléfono que lo tiene todo. Este es el teléfono creado a medida de todos nuestros seguidores. Tanto si lo que te gusta es la fotografía, como los juegos, como llenar tus publicaciones con todo lo que te inspira... Hemos unido la última combinación de innovación de S20 en este dispositivo. Este es el teléfono que te da lo que quieres, para hacer más de lo que te gusta.",
+      "color": "black333",
+      "price": 1.769,
+      "imageFileName": "iphone-13-pro-max-gold-select.png",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    }
+  ]
+}
